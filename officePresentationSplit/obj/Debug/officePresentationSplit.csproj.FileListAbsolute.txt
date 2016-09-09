@@ -1,0 +1,12 @@
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\officePresentationSplit.dll
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\officePresentationSplit.pdb
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\officePresentationSplit.dll.manifest
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\officePresentationSplit.vsto
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.csprojResolveAssemblyReference.cache
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.MyAuthPipeline1.resources
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.Properties.Resources.resources
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.csproj.GenerateResource.Cache
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.dll
+D:\New projects\officePresentationSplit - full split\officePresentationSplit\obj\Debug\officePresentationSplit.pdb
